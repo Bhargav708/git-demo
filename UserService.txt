@@ -1,1 +1,3 @@
 Enter the user details here.
+
+creating an avator for user
